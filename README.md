@@ -64,7 +64,7 @@ My goal is to build elegant apps that balance clean architecture, great performa
 
 ### 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suwasto&layout=compact&theme=default)
+
 
 ---
 
