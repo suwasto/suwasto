@@ -53,7 +53,6 @@ My goal is to build elegant apps that balance clean architecture, great performa
 **Tools & Workflow:**  
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Fastlane](https://img.shields.io/badge/Fastlane-%23000000.svg?style=for-the-badge&logo=fastlane&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-%2302303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
 ![Proguard](https://img.shields.io/badge/Proguard-%23000000.svg?style=for-the-badge&logo=android&logoColor=white)
